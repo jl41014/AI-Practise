@@ -4,7 +4,7 @@ from langchain_openai import ChatOpenAI
 
 chat = ChatOpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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",
+    api_key="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",
     model="meta-llama/llama-4-maverick:free",
     temperature=0.2
 )
