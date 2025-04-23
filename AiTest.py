@@ -37,3 +37,5 @@ output = chat.invoke(response.to_string())
 
 print(output_parser.parse(output.content))
 
+# tutorial https://github.com/WTFAcademy/WTF-Langchain/tree/main/01_Hello_Langchain
+
